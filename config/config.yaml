@@ -1,0 +1,8 @@
+filepaths:
+  input_file_filepath: "data/input.txt"
+  stop_word_filepath: "data/stop_words.txt"
+
+output_settings:
+  output_to_terminal: true
+  output_to_file: true
+  output_dir: "/output/"
